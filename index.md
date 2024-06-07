@@ -9,3 +9,9 @@
 # Creating a new variable
 myvar<-"Hello World"
 ```
+
+
+## I am creating a list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
